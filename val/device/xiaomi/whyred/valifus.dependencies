@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "kernel_xiaomi_whyred",
+    "target_path": "kernel/xiaomi/whyred"
+  },
+  {
+    "repository": "packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
+  }
+]
