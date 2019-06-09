@@ -727,8 +727,8 @@
   <!-- Remove unused AOSP repos -->
   <include name="snippets/remove.xml" />
 
-  <!-- Add some ionized repos -->
-  <include name="snippets/ion.xml" />
+  <!-- Add some squid repos -->
+  <include name="snippets/squid.xml" />
 
   <!-- Add some LineageOS repos -->
   <include name="snippets/lineage.xml" />
