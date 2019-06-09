@@ -23,7 +23,6 @@
   <!-- Framework repos -->
   <project path="frameworks/av" name="frameworks_av" remote="squid" />
   <project path="frameworks/base" name="frameworks_base" remote="squid" />
-  <project path="frameworks/ion" name="frameworks_ion" remote="squid" />
   <project path="frameworks/native" name="frameworks_native" remote="squid" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="squid" />
 
@@ -44,7 +43,6 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
   <project path="vendor/squid" name="vendor_squid" remote="squid" />
-  <project path="vendor/overlays" name="vendor_overlays" remote="squid" />
   <project path="vendor/google/squid" name="vendor_google_squid" remote="squid" />
   <project path="vendor/google/app" name="vendor_google_app" remote="ag" clone-depth="1" />
   <project path="vendor/google/priv-app" name="vendor_google_priv-app" remote="ag" clone-depth="1" />
